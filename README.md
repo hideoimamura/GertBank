@@ -5,7 +5,3 @@
 3. Then the script should print out sequences specified in your input file. 
 
 If you have a better solution, please let us know.  
-
-
-
-
